@@ -42,7 +42,7 @@ The API will return a JSON object containing the IDs of the most similar items.
 }
 ```
 
-To test the recommendation system, use the (test.ipynb)[https://github.com/saadkh1/shopping-recommendation-api/blob/main/test.ipynb] notebook file. This file demonstrates how to load the dataset, run the recommendation system, and retrieve the list of similar items for a specific item.
+To test the recommendation system, use the test.ipynb notebook file. This file demonstrates how to load the dataset, run the recommendation system, and retrieve the list of similar items for a specific item.
 
 
 Note that the API uses cosine similarity to find the most similar items, so the results may not be perfect. Additionally, the dataset used by the API is from H&M's Personalized Fashion Recommendations competition on [Kaggle](https://www.kaggle.com/competitions/h-and-m-personalized-fashion-recommendations/data), so the results may be biased towards H&M products.
