@@ -38,7 +38,7 @@ The API will return a JSON object containing the IDs of the most similar items.
 
 ```bash
 {
-  "similar_items": ["219075014", "219075021", "219075017", "567"]
+  "similar_items": ["219075014", "219075021", "219075017"]
 }
 ```
 
